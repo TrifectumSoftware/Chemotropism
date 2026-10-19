@@ -145,12 +145,24 @@
       "sha1": "017cce66516a6382fc531ae4e1f57e07786280f1"
     },
     {
+      "path": "content/resourcepacks/smooth-font-32x.json",
+      "sha1": "20e3fdf199748ddd85cc9bc30a669d896ef55533"
+    },
+    {
       "path": "content/resourcepacks/unique-dark-hotbar-add-on.json",
       "sha1": "3b11beddf7b9138c7b629ce1b3f9ba95738186e1"
     },
     {
+      "path": "overrides/config/MouseTweaks.cfg",
+      "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
       "path": "overrides/config/avogadro-common.toml",
       "sha1": "7fac5a4c71868fc42c8497b4b89537e6ce95badb"
+    },
+    {
+      "path": "overrides/config/badoptimizations.txt",
+      "sha1": "aff5e1434dd35e1349ef9ebb6a40148c71e7bab2"
     },
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
@@ -169,6 +181,98 @@
       "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
     },
     {
+      "path": "overrides/config/fancymenu/assets/button.png",
+      "sha1": "307520de6f5a7b4ba039977caeb05b1d7799d1d8"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/buttonhovered.png",
+      "sha1": "6ecd006445b30f25548b42a74f95b5d94858978e"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/buttoninactive.png",
+      "sha1": "33d9ab57ccf6cab0f2e2c654cd390ff7b4febd8d"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/chemotropism_logo.png",
+      "sha1": "fc63b39b7ea875b2076717926b8702422fcec8af"
+    },
+    {
+      "path": "overrides/config/fancymenu/assets/chemotropism_logo_trans.png",
+      "sha1": "fa40a78e5bdf6f60015cdb52a97fe662887cde93"
+    },
+    {
+      "path": "overrides/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+    },
+    {
+      "path": "overrides/config/fancymenu/customizablemenus.txt",
+      "sha1": "6ec0dfba5d889a540297fa153084d03657f9c9fb"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/new_folder/title_screen_layout.txt",
+      "sha1": "b6a42ba42b3d441d1baecbdace797b783faca914"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/select_world_screen_layout.txt",
+      "sha1": "c8117d8b4bb14848f8a3694008f099c4e7a988b7"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/universal_layout.txt",
+      "sha1": "8cef8b114ed41790eb7ad4001a768885396ec018"
+    },
+    {
+      "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d"
+    },
+    {
+      "path": "overrides/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "overrides/config/fancymenu/options.txt",
+      "sha1": "1df9854476f9d94f258ba65b3ce8d3ea54d60e99"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+    },
+    {
+      "path": "overrides/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
+    },
+    {
       "path": "overrides/config/ferritecore-mixin.toml",
       "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
     },
@@ -181,6 +285,14 @@
       "sha1": "2db02a4f6eb4194366057077c53d24d2d1d74a90"
     },
     {
+      "path": "overrides/config/ftblibrary-client.snbt",
+      "sha1": "355b47b89111cd0484da7d8f58c1e5bfccdb0210"
+    },
+    {
+      "path": "overrides/config/ftbquests-client.snbt",
+      "sha1": "11b4ddbe19980a0188b9a63a99fd8a1a727c9750"
+    },
+    {
       "path": "overrides/config/functionalstorage/functionalstorage-client.toml",
       "sha1": "3ad1e9611e1aed11a7243db48e1e85c77d5d4863"
     },
@@ -191,6 +303,26 @@
     {
       "path": "overrides/config/guideme.toml",
       "sha1": "8a311cab983d7ea0ebdc1566ec885c17c7f11f93"
+    },
+    {
+      "path": "overrides/config/hungerstrike-common.toml",
+      "sha1": "b3139d9cca612f2deb068c934192d56c6c332a16"
+    },
+    {
+      "path": "overrides/config/konkrete/locals/de_de.local",
+      "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5"
+    },
+    {
+      "path": "overrides/config/konkrete/locals/en_us.local",
+      "sha1": "42badc338e767559db38a67bd3e8020a92000e56"
+    },
+    {
+      "path": "overrides/config/konkrete/locals/pl_pl.local",
+      "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429"
+    },
+    {
+      "path": "overrides/config/konkrete/locals/pt_br.local",
+      "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34"
     },
     {
       "path": "overrides/config/lithium.properties",
@@ -253,6 +385,22 @@
       "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
     },
     {
+      "path": "overrides/config/sound_physics_remastered/occlusion.properties",
+      "sha1": "0c39bc1ec4b2ac839c49d38abbded87f25755eb8"
+    },
+    {
+      "path": "overrides/config/sound_physics_remastered/reflectivity.properties",
+      "sha1": "f535269c4173ed9c499611b9f595befc02d512cf"
+    },
+    {
+      "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
+      "sha1": "234a90449f73e556778b72afbc9fed5c6cefcc94"
+    },
+    {
+      "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
+      "sha1": "f19e89b002596ede2b4b5a528ddb12180db6ac93"
+    },
+    {
       "path": "overrides/config/titanium/titanium-tags.toml",
       "sha1": "0a0ca2fb210512d2c5a4acaf68540657b04ba657"
     },
@@ -266,7 +414,7 @@
     },
     {
       "path": "overrides/icon.png",
-      "sha1": "2a5dbc743705f1e02922c710494522d259ba1489"
+      "sha1": "fa40a78e5bdf6f60015cdb52a97fe662887cde93"
     },
     {
       "path": "overrides/kubejs/README.txt",
@@ -309,8 +457,12 @@
       "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
     },
     {
+      "path": "overrides/mods/Chemotropism-Packmod-0.1.0.jar",
+      "sha1": "807c6dc80a33e97d4c9d08320aecd780fb78263f"
+    },
+    {
       "path": "overrides/options.txt",
-      "sha1": "1c267baa7c26bd0a916f9753ef2d74852358f6ed"
+      "sha1": "be3958be10922138e0dd3ccbb5b11bac314a0763"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Chemotropism
 
-**Minecraft 1.21.1 · neoforge 21.1.264**, 24 mods (13 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.264**, 24 mods (13 dependencies), 2 resource packs
 
 ## Contents
 
@@ -24,6 +24,7 @@
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
 - Mouse Tweaks `[1.21+ NeoForge] Mouse Tweaks 2.26.1` (curseforge)
 - Respawn `respawn-1.21-2.0.0.1.jar` (curseforge)
+- [Smooth Font 32x](https://modrinth.com/project/smooth-font-32x) `1`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
 - Sound Physics Remastered `[NEOFORGE][1.21.1] Sound Physics Remastered 1.21.1-1.5.1` (curseforge)

@@ -1,0 +1,23 @@
+{
+  "name": "Smooth Font 32x",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "k3qLOytc",
+      "slug": "smooth-font-32x",
+      "versionId": "Cino96nh",
+      "versionNumber": "1",
+      "filename": "SmoothFont_1.21.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/k3qLOytc/versions/Cino96nh/SmoothFont_1.21.zip",
+      "sha1": "1cc21ed48f53014dd5b48741cafc373ce81ad1ef",
+      "sha512": "156802b8edabf1ff468830f5aed20b1ad7df7465ed09d99f883e7cd6cf6fe0b4519a9e6da02d8414a203254f73835dabc7cc76882571a4f3d2267f6d215cbcc0",
+      "fileSize": 70794
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
