@@ -1,0 +1,22 @@
+{
+  "name": "Clear Void",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "909467",
+      "slug": "clear-void",
+      "versionId": "7177468",
+      "versionNumber": "clearvoid-mc1.21.1-1.3.1.jar",
+      "filename": "clearvoid-mc1.21.1-1.3.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7177/468/clearvoid-mc1.21.1-1.3.1.jar",
+      "sha1": "5223ec7cccf1d7f4121e60295ac076f9e59aeee1",
+      "fileSize": 82482
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

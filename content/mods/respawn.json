@@ -1,0 +1,22 @@
+{
+  "name": "Respawn",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "852464",
+      "slug": "respawn",
+      "versionId": "5535973",
+      "versionNumber": "respawn-1.21-2.0.0.1.jar",
+      "filename": "respawn-1.21-2.0.0.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5535/973/respawn-1.21-2.0.0.1.jar",
+      "sha1": "1e558064ae050753d94b570d9285c698d320f900",
+      "fileSize": 176055
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

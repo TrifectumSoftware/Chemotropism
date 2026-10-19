@@ -1,0 +1,22 @@
+{
+  "name": "Forgiving Void",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "271009",
+      "slug": "forgiving-void",
+      "versionId": "7966159",
+      "versionNumber": "forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+      "filename": "forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7966/159/forgivingvoid-neoforge-1.21.1-21.1.7.jar",
+      "sha1": "bfcad985c5e335e2b712965c9b0d9028da01c845",
+      "fileSize": 76432
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

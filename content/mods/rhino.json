@@ -1,0 +1,24 @@
+{
+  "name": "Rhino",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "416294",
+      "slug": "rhino",
+      "versionId": "8218748",
+      "versionNumber": "Rhino 2101.2.7-build.85",
+      "filename": "rhino-2101.2.7-build.85.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8218/748/rhino-2101.2.7-build.85.jar",
+      "sha1": "370598a1d2321c8a705ce539eb970375f20150c3",
+      "fileSize": 882075
+    }
+  },
+  "dependents": [
+    "238086"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

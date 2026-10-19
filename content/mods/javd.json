@@ -1,0 +1,22 @@
+{
+  "name": "Just Another Void Dimension",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "370890",
+      "slug": "javd",
+      "versionId": "5711894",
+      "versionNumber": "JAVD Neo 9.0.0+mc1.21.1",
+      "filename": "javd-neo-9.0.0+mc1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5711/894/javd-neo-9.0.0%2bmc1.21.1.jar",
+      "sha1": "8347a4006685c6b108f89fc026777fdf498e46e7",
+      "fileSize": 54632
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

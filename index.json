@@ -5,6 +5,26 @@
       "sha1": "a5b251ba69f10216e17e08a8e6ebf679089f8511"
     },
     {
+      "path": "content/mods/balm.json",
+      "sha1": "5833632cece9e1066d9213409880553b51fdfdea"
+    },
+    {
+      "path": "content/mods/better-advanced-tooltips.json",
+      "sha1": "c8f598e9ae79dbbc5f00c4ef2909b9432c0b3c0d"
+    },
+    {
+      "path": "content/mods/clear-void.json",
+      "sha1": "481506b80bfc98ae72a3a19a7569b9973045ac40"
+    },
+    {
+      "path": "content/mods/configuration.json",
+      "sha1": "a1a9d3ee50a451d7b00fb8d7843e83ff347c955c"
+    },
+    {
+      "path": "content/mods/curvy-pipes.json",
+      "sha1": "a4985486f6b6edc4fa24822dad3e82147bbea493"
+    },
+    {
       "path": "content/mods/emi.json",
       "sha1": "869a3c44660ae6b1ae4cf441c3fd8f9f5feadd38"
     },
@@ -13,12 +33,48 @@
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
     {
+      "path": "content/mods/forgiving-void.json",
+      "sha1": "b1e7137d7ee7ed2c54b3d3708b8e7ca9453d5ee9"
+    },
+    {
+      "path": "content/mods/functional-storage.json",
+      "sha1": "bfe90df276a36631152e0150acff60e6ab72908a"
+    },
+    {
+      "path": "content/mods/guideme.json",
+      "sha1": "edb747f598ba41d6897aa22adc8a999ae2c8889a"
+    },
+    {
+      "path": "content/mods/javd.json",
+      "sha1": "1980869e348fc5e9ca7603e3cfc995e861ccfa0c"
+    },
+    {
+      "path": "content/mods/kubejs.json",
+      "sha1": "5be12bdd34d32feef2ab3ee26b23f1aa1b17211c"
+    },
+    {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
     {
+      "path": "content/mods/modern-industrialization-sound-addon.json",
+      "sha1": "0ead596de9f46b9e7e20d66f155563dc28326307"
+    },
+    {
+      "path": "content/mods/modern-industrialization.json",
+      "sha1": "780c9bf6ce4ff848776e937df617a0834d9b01ab"
+    },
+    {
       "path": "content/mods/modernfix.json",
       "sha1": "49fe72b3ea8294e7b9d4da43e28a4ae6f67592e9"
+    },
+    {
+      "path": "content/mods/respawn.json",
+      "sha1": "0311e0421f0681d7c551222856de0561e579a127"
+    },
+    {
+      "path": "content/mods/rhino.json",
+      "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -29,12 +85,32 @@
       "sha1": "9aa67e6c86f0d38e83029cd1b2bdc83c92a6f285"
     },
     {
+      "path": "content/mods/titanium.json",
+      "sha1": "01d3f0593ca5e07bc00639d829aba335761aecc6"
+    },
+    {
       "path": "content/mods/tmrv.json",
       "sha1": "e07768afb9d06ca3fb5d90628e395a5f025bc806"
     },
     {
+      "path": "content/mods/trenzalore.json",
+      "sha1": "017cce66516a6382fc531ae4e1f57e07786280f1"
+    },
+    {
       "path": "overrides/config/avogadro-common.toml",
       "sha1": "7fac5a4c71868fc42c8497b4b89537e6ce95badb"
+    },
+    {
+      "path": "overrides/config/better-advanced-tooltips-client.toml",
+      "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
+    },
+    {
+      "path": "overrides/config/configuration-options.json",
+      "sha1": "31cc11566090acb8be2b1c03e5e724594b410a1e"
+    },
+    {
+      "path": "overrides/config/curvy_pipes_default.yaml",
+      "sha1": "6e65f1a12c9637009ce9f492cc1b8ba5186ef2d9"
     },
     {
       "path": "overrides/config/emi.css",
@@ -49,8 +125,40 @@
       "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
     },
     {
+      "path": "overrides/config/forgivingvoid-common.toml",
+      "sha1": "2db02a4f6eb4194366057077c53d24d2d1d74a90"
+    },
+    {
+      "path": "overrides/config/functionalstorage/functionalstorage-client.toml",
+      "sha1": "3ad1e9611e1aed11a7243db48e1e85c77d5d4863"
+    },
+    {
+      "path": "overrides/config/functionalstorage/functionalstorage-common.toml",
+      "sha1": "1ea0e305ab24d85f0b86dbc21878f913b6cb2e3c"
+    },
+    {
+      "path": "overrides/config/guideme.toml",
+      "sha1": "8a311cab983d7ea0ebdc1566ec885c17c7f11f93"
+    },
+    {
       "path": "overrides/config/lithium.properties",
       "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
+      "path": "overrides/config/mi_sound_addon-common.toml",
+      "sha1": "1340e129f6c3fe32f8f2dba9844ce67d22e08daf"
+    },
+    {
+      "path": "overrides/config/modern_industrialization-client.toml",
+      "sha1": "d2504bf8149f26523b87b09a961c233a8dbf5626"
+    },
+    {
+      "path": "overrides/config/modern_industrialization-server.toml",
+      "sha1": "9986b7e407162fee71bcfe3b20c867e4a5ea697c"
+    },
+    {
+      "path": "overrides/config/modern_industrialization-startup.toml",
+      "sha1": "ca81cb2609f37dc2ac65819571ed4b1630fe5932"
     },
     {
       "path": "overrides/config/modernfix-common.toml",
@@ -73,6 +181,10 @@
       "sha1": "6e589499975366719134967e8ad049ee10d8caac"
     },
     {
+      "path": "overrides/config/respawn-server.toml",
+      "sha1": "c9a0d67b920bdce12dfcbcc037c5427eb31207c7"
+    },
+    {
       "path": "overrides/config/sodium-extra-options.json",
       "sha1": "2fe88902b447b908a0ac441b9275c56e01cdcd29"
     },
@@ -89,12 +201,56 @@
       "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
     },
     {
+      "path": "overrides/config/titanium/titanium-tags.toml",
+      "sha1": "0a0ca2fb210512d2c5a4acaf68540657b04ba657"
+    },
+    {
+      "path": "overrides/config/titanium/titanium.toml",
+      "sha1": "e573cdaba1ad7ccca323ca28a52f3aecb3db7bd8"
+    },
+    {
       "path": "overrides/config/tmrv_plugins.json5",
       "sha1": "68f24615533216a59f235eacff9c238735917277"
     },
     {
       "path": "overrides/icon.png",
       "sha1": "2a5dbc743705f1e02922c710494522d259ba1489"
+    },
+    {
+      "path": "overrides/kubejs/README.txt",
+      "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/example_block.png",
+      "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/example_item.png",
+      "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "overrides/kubejs/client_scripts/main.js",
+      "sha1": "e6f23e21b25a366f2216fbf7da00ed7d34542f20"
+    },
+    {
+      "path": "overrides/kubejs/config/client.json",
+      "sha1": "543ce77f954453d39da0ef6adad3f5e427fd4d8a"
+    },
+    {
+      "path": "overrides/kubejs/config/common.json",
+      "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d"
+    },
+    {
+      "path": "overrides/kubejs/config/web_server.json",
+      "sha1": "1021d8568467b014ba73ebe9784d74b0a74fcb10"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/main.js",
+      "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/main.js",
+      "sha1": "05ec115c372985dc9f77dd2513933aa8e90eba61"
     },
     {
       "path": "overrides/options.txt",

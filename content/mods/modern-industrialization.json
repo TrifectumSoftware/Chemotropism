@@ -1,0 +1,24 @@
+{
+  "name": "Modern Industrialization",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "405388",
+      "slug": "modern-industrialization",
+      "versionId": "9091242",
+      "versionNumber": "Modern Industrialization v2.5.10",
+      "filename": "Modern-Industrialization-2.5.10.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9091/242/Modern-Industrialization-2.5.10.jar",
+      "sha1": "7f62032ad45a996cd4964a03c5359a5f86a55a54",
+      "fileSize": 7292458
+    }
+  },
+  "dependents": [
+    "910125"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

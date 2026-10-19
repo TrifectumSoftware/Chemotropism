@@ -1,0 +1,23 @@
+{
+  "name": "Configuration",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3WjjSM5O",
+      "slug": "configuration",
+      "versionId": "6Mztfq1u",
+      "versionNumber": "3.1.1",
+      "filename": "configuration-neoforge-1.21.1-3.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3WjjSM5O/versions/6Mztfq1u/configuration-neoforge-1.21.1-3.1.1.jar",
+      "sha1": "2c968fd3add0f699f3493c073c22bfd31dbd606e",
+      "sha512": "46306da16d19fc187e077a37b57ec1fdf2821b63bbdff8d652fcb33c391d2afd79d9f7be72178adb9476170353d7450ab9ee048c7d880e8abbc3481df2eca025",
+      "fileSize": 423189
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

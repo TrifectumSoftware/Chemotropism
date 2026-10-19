@@ -1,0 +1,24 @@
+{
+  "name": "Better Advanced Tooltips",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1637623",
+      "slug": "better-advanced-tooltips",
+      "versionId": "8576077",
+      "versionNumber": "better-advanced-tooltips-2101.1.0-build.5.jar",
+      "filename": "better-advanced-tooltips-2101.1.0-build.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8576/77/better-advanced-tooltips-2101.1.0-build.5.jar",
+      "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
+      "fileSize": 37653
+    }
+  },
+  "dependents": [
+    "238086"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

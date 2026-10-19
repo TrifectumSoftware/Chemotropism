@@ -1,14 +1,24 @@
 # Chemotropism
 
-**Minecraft 1.21.1 · neoforge 21.1.264**, 8 mods
+**Minecraft 1.21.1 · neoforge 21.1.264**, 18 mods (7 dependencies)
 
 ## Contents
 
 - Avogadro `avogadro-1.0.0-neoforge-1.21.1.jar` (curseforge)
+- Clear Void `clearvoid-mc1.21.1-1.3.1.jar` (curseforge)
+- [Configuration](https://modrinth.com/project/configuration) `3.1.1`
+- [Curvy Pipes](https://modrinth.com/project/curvy-pipes) `1.21.1-1.15.10`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- Forgiving Void `forgivingvoid-neoforge-1.21.1-21.1.7.jar` (curseforge)
+- Functional Storage `functionalstorage-1.21.1-1.5.8.jar` (curseforge)
+- Just Another Void Dimension `JAVD Neo 9.0.0+mc1.21.1` (curseforge)
+- KubeJS `KubeJS NeoForge 2101.7.2-build.377` (curseforge)
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- Modern Industrialization `Modern Industrialization v2.5.10` (curseforge)
+- Modern Industrialization Sound Addon `MI Sound Addon 1.3.1-1.21.1` (curseforge)
 - [ModernFix](https://modrinth.com/project/modernfix) `5.27.26+mc1.21.1`
+- Respawn `respawn-1.21-2.0.0.1.jar` (curseforge)
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
 - [TooManyRecipeViewers](https://modrinth.com/project/tmrv) `0.9.0+mc.21.1`

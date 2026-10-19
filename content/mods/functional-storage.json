@@ -1,0 +1,22 @@
+{
+  "name": "Functional Storage",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "556861",
+      "slug": "functional-storage",
+      "versionId": "8459097",
+      "versionNumber": "functionalstorage-1.21.1-1.5.8.jar",
+      "filename": "functionalstorage-1.21.1-1.5.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8459/97/functionalstorage-1.21.1-1.5.8.jar",
+      "sha1": "f5978bb49b71e94d7063502c0fad0202ebbefbcc",
+      "fileSize": 810628
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

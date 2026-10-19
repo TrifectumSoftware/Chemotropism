@@ -1,0 +1,24 @@
+{
+  "name": "GuideME",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1173950",
+      "slug": "guideme",
+      "versionId": "8897145",
+      "versionNumber": "GuideME 21.1.19",
+      "filename": "guideme-21.1.19.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8897/145/guideme-21.1.19.jar",
+      "sha1": "e85cd4c266f974dd360c46e8dad7ecf4c7ee96c6",
+      "fileSize": 9311992
+    }
+  },
+  "dependents": [
+    "405388"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}
