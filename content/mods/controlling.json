@@ -1,0 +1,22 @@
+{
+  "name": "Controlling",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "250398",
+      "slug": "controlling",
+      "versionId": "6368976",
+      "versionNumber": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+      "fileSize": 77555
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Konkrete",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "410295",
+      "slug": "konkrete",
+      "versionId": "5453385",
+      "versionNumber": "[NeoForge] v1.9.9 MC 1.21",
+      "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "fileSize": 618842
+    }
+  },
+  "dependents": [
+    "367706"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

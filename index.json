@@ -1,8 +1,16 @@
 {
   "files": [
     {
+      "path": "content/mods/architectury-api.json",
+      "sha1": "9a433152463cbd235325de3d9d224d0b77041516"
+    },
+    {
       "path": "content/mods/avogadro.json",
       "sha1": "a5b251ba69f10216e17e08a8e6ebf679089f8511"
+    },
+    {
+      "path": "content/mods/badoptimizations.json",
+      "sha1": "d0f65ef836e05cb4d674b6205d369d2220ff1283"
     },
     {
       "path": "content/mods/balm.json",
@@ -21,8 +29,16 @@
       "sha1": "a1a9d3ee50a451d7b00fb8d7843e83ff347c955c"
     },
     {
+      "path": "content/mods/controlling.json",
+      "sha1": "ba7a3752df00d40e3d090bfcd25bdb833f241582"
+    },
+    {
       "path": "content/mods/emi.json",
       "sha1": "869a3c44660ae6b1ae4cf441c3fd8f9f5feadd38"
+    },
+    {
+      "path": "content/mods/fancymenu.json",
+      "sha1": "0a4eeb6e719d8ca610a46e67b6a45d83ebaa1a79"
     },
     {
       "path": "content/mods/ferrite-core.json",
@@ -33,6 +49,18 @@
       "sha1": "b1e7137d7ee7ed2c54b3d3708b8e7ca9453d5ee9"
     },
     {
+      "path": "content/mods/ftb-library-forge.json",
+      "sha1": "e760e5818911cc1e50fd41da1d65c5762998764c"
+    },
+    {
+      "path": "content/mods/ftb-quests-forge.json",
+      "sha1": "c11671dd89c74abe3d62f55e2c5a2c89b40952c1"
+    },
+    {
+      "path": "content/mods/ftb-teams-forge.json",
+      "sha1": "cf3594556f2dcbf919cfb2e31516cf9519f67c04"
+    },
+    {
       "path": "content/mods/functional-storage.json",
       "sha1": "bfe90df276a36631152e0150acff60e6ab72908a"
     },
@@ -41,8 +69,16 @@
       "sha1": "edb747f598ba41d6897aa22adc8a999ae2c8889a"
     },
     {
+      "path": "content/mods/hunger-strike.json",
+      "sha1": "71f75a75fce9801ef81046e755c6d260036ebdb4"
+    },
+    {
       "path": "content/mods/javd.json",
       "sha1": "1980869e348fc5e9ca7603e3cfc995e861ccfa0c"
+    },
+    {
+      "path": "content/mods/konkrete.json",
+      "sha1": "da3a806134da0943f012f845283485e1d2047f6e"
     },
     {
       "path": "content/mods/kubejs.json",
@@ -51,6 +87,10 @@
     {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+    },
+    {
+      "path": "content/mods/melody.json",
+      "sha1": "a1a08674fbb886f9afbe379f28e23258dcde0950"
     },
     {
       "path": "content/mods/modern-industrialization-sound-addon.json",
@@ -65,6 +105,10 @@
       "sha1": "49fe72b3ea8294e7b9d4da43e28a4ae6f67592e9"
     },
     {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "0421c62ed8c5200c710ffc69199011145bd7d13e"
+    },
+    {
       "path": "content/mods/respawn.json",
       "sha1": "0311e0421f0681d7c551222856de0561e579a127"
     },
@@ -73,12 +117,20 @@
       "sha1": "f082316c370a23c9e3a9b82c635b0dbff48e8772"
     },
     {
+      "path": "content/mods/searchables.json",
+      "sha1": "e70367b46277290fc5c322dcde8debc2ba909325"
+    },
+    {
       "path": "content/mods/sodium-extra.json",
       "sha1": "8a5304547b8e780e3d613267bd4ec343483974f9"
     },
     {
       "path": "content/mods/sodium.json",
       "sha1": "9aa67e6c86f0d38e83029cd1b2bdc83c92a6f285"
+    },
+    {
+      "path": "content/mods/sound-physics-remastered.json",
+      "sha1": "be7349339d47651c06817e81a991024f3710135e"
     },
     {
       "path": "content/mods/titanium.json",
@@ -91,6 +143,10 @@
     {
       "path": "content/mods/trenzalore.json",
       "sha1": "017cce66516a6382fc531ae4e1f57e07786280f1"
+    },
+    {
+      "path": "content/resourcepacks/unique-dark-hotbar-add-on.json",
+      "sha1": "3b11beddf7b9138c7b629ce1b3f9ba95738186e1"
     },
     {
       "path": "overrides/config/avogadro-common.toml",
@@ -178,7 +234,7 @@
     },
     {
       "path": "overrides/config/respawn-server.toml",
-      "sha1": "c9a0d67b920bdce12dfcbcc037c5427eb31207c7"
+      "sha1": "e45dfef40fae76ebd299c524a618dfb2be1fc88e"
     },
     {
       "path": "overrides/config/sodium-extra-options.json",
@@ -243,6 +299,10 @@
     {
       "path": "overrides/kubejs/server_scripts/main.js",
       "sha1": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/void_spawn.js",
+      "sha1": "3fee844013f337ada53f3054e29204b9616f82b2"
     },
     {
       "path": "overrides/kubejs/startup_scripts/main.js",

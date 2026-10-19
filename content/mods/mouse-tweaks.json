@@ -1,0 +1,22 @@
+{
+  "name": "Mouse Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "60089",
+      "slug": "mouse-tweaks",
+      "versionId": "5637846",
+      "versionNumber": "[1.21+ NeoForge] Mouse Tweaks 2.26.1",
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5637/846/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+      "fileSize": 73938
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

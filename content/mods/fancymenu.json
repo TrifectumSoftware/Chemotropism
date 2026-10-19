@@ -1,0 +1,22 @@
+{
+  "name": "FancyMenu",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "367706",
+      "slug": "fancymenu",
+      "versionId": "9002957",
+      "versionNumber": "[NeoForge] v3.9.14 MC 1.21.1",
+      "filename": "fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9002/957/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+      "sha1": "cafbef98afb4f60adea426b950c5452655040c40",
+      "fileSize": 25922080
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

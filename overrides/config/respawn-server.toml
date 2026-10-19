@@ -4,10 +4,10 @@
 #
 #Whether to override the default spawn dimension.
 #Set this to false to use vanilla behavior or allow other mods to override the default spawn dimension.
-enabled = false
+enabled = true
 #Dimension players will respawn in when they have no respawn point set (from bed, anchors, etc).
 #This is "minecraft:overworld" by default.
-respawnDimension = "minecraft:overworld"
+respawnDimension = "javd:void"
 #Minimum permission level to use /respawn commands to alter respawn config in-game.
 #Defaults to 2 (same as vanilla /setworldspawn)
 # Default: 2

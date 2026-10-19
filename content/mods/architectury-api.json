@@ -1,0 +1,26 @@
+{
+  "name": "Architectury API",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "419699",
+      "slug": "architectury-api",
+      "versionId": "8492726",
+      "versionNumber": "[NeoForge 1.21] v13.0.11",
+      "filename": "architectury-13.0.11-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar",
+      "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
+      "fileSize": 584734
+    }
+  },
+  "dependents": [
+    "289412",
+    "404465",
+    "404468"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

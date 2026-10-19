@@ -1,0 +1,22 @@
+{
+  "name": "Hunger Strike",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "75334",
+      "slug": "hunger-strike",
+      "versionId": "5702851",
+      "versionNumber": "Hunger Strike-1.21-neoforge-9.0.0",
+      "filename": "Hunger Strike-neoforge-1.21-9.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5702/851/Hunger%20Strike-neoforge-1.21-9.0.0.jar",
+      "sha1": "9c9b0abc226bace8bdb85dbb8e4892dcc3700b6c",
+      "fileSize": 41151
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

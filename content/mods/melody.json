@@ -1,0 +1,24 @@
+{
+  "name": "Melody",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "938643",
+      "slug": "melody",
+      "versionId": "5453382",
+      "versionNumber": "[NeoForge] v1.0.10 MC 1.21",
+      "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+      "fileSize": 36096
+    }
+  },
+  "dependents": [
+    "367706"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

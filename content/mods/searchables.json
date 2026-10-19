@@ -1,0 +1,24 @@
+{
+  "name": "Searchables",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "858542",
+      "slug": "searchables",
+      "versionId": "5831692",
+      "versionNumber": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+      "fileSize": 77326
+    }
+  },
+  "dependents": [
+    "250398"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

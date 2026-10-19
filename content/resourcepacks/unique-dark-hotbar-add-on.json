@@ -1,0 +1,22 @@
+{
+  "name": "Unique Dark - Hotbar Add-On",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1348920",
+      "slug": "unique-dark-hotbar-add-on",
+      "versionId": "7900698",
+      "versionNumber": "UD - Hotbar add-on 1.20.2-26.x v2.0",
+      "filename": "UD - Hotbar add-on 1.20.2-26.x.zip",
+      "downloadUrl": "https://edge.forgecdn.net/files/7900/698/UD%20-%20Hotbar%20add-on%201.20.2-26.x.zip",
+      "sha1": "4b75e17f8876182dc99f4ec142d9c8b2b04b3249",
+      "fileSize": 14866
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

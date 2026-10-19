@@ -1,0 +1,22 @@
+{
+  "name": "Sound Physics Remastered",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "535489",
+      "slug": "sound-physics-remastered",
+      "versionId": "7032247",
+      "versionNumber": "[NEOFORGE][1.21.1] Sound Physics Remastered 1.21.1-1.5.1",
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7032/247/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha1": "31cf754f9e5f62d1ca257f297e5dce394024696c",
+      "fileSize": 202454
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
