@@ -1,13 +1,12 @@
 # Chemotropism
 
-**Minecraft 1.21.1 · neoforge 21.1.264**, 18 mods (7 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.264**, 17 mods (7 dependencies)
 
 ## Contents
 
 - Avogadro `avogadro-1.0.0-neoforge-1.21.1.jar` (curseforge)
 - Clear Void `clearvoid-mc1.21.1-1.3.1.jar` (curseforge)
 - [Configuration](https://modrinth.com/project/configuration) `3.1.1`
-- [Curvy Pipes](https://modrinth.com/project/curvy-pipes) `1.21.1-1.15.10`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - Forgiving Void `forgivingvoid-neoforge-1.21.1-21.1.7.jar` (curseforge)
