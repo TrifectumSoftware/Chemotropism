@@ -1,0 +1,23 @@
+{
+  "name": "Sodium Extra",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "PtjYWJkn",
+      "slug": "sodium-extra",
+      "versionId": "ufpcXU9c",
+      "versionNumber": "mc1.21.1-0.9.4+neoforge",
+      "filename": "sodium-extra-neoforge-0.9.4+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/PtjYWJkn/versions/ufpcXU9c/sodium-extra-neoforge-0.9.4%2Bmc1.21.1.jar",
+      "sha1": "75f9c202e8384cb5de039cdcc47d5e1c8fde8fe5",
+      "sha512": "b930a9c6364bdbac42da7175f9fa71360053cd046d2f1e9a99d712e5942299882bfb585e5b661490b791e219b5dd6b9f064fb94f169d7a32a9934c1dc2b85edf",
+      "fileSize": 472060
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

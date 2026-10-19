@@ -1,0 +1,12 @@
+# Player edits to files matching these patterns will persist with updates.
+# One pattern per line, relative to .minecraft.
+# * matches within a folder, ** matches any depth.
+# file#setting matches a single setting in a config file.
+# ! negates a pattern.
+#
+# config/somemod.toml
+# config/somemod/**
+# config/somemod.toml#client.fov
+# !config/somemod.toml#client.debug
+options.txt
+servers.dat

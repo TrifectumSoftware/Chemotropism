@@ -1,0 +1,23 @@
+{
+  "name": "TooManyRecipeViewers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yFypjcfd",
+      "slug": "tmrv",
+      "versionId": "pEhG9g9P",
+      "versionNumber": "0.9.0+mc.21.1",
+      "filename": "toomanyrecipeviewers-0.9.0+mc.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yFypjcfd/versions/pEhG9g9P/toomanyrecipeviewers-0.9.0%2Bmc.21.1.jar",
+      "sha1": "d82ca1db3f4323534b1ce5f43b94a5ae31f65edb",
+      "sha512": "d3f628928fd823dd65ffdfcf8097b5af873287616e85ce3bab7e777f6db5d5edbb792f509b8ac33e786191b5a53ea6fd8e72eab1ccaa738582ea45cdfccaa0b7",
+      "fileSize": 1241625
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
