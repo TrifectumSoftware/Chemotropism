@@ -4,7 +4,7 @@
 
 ## Contents
 
-- 9205114 (url)
+- Avogadro `avogadro-1.0.0-neoforge-1.21.1.jar` (curseforge)
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`

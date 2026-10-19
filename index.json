@@ -1,8 +1,8 @@
 {
   "files": [
     {
-      "path": "content/mods/9205114.json",
-      "sha1": "180cc97f5d6bb50536fbfad96804b395b3afc38b"
+      "path": "content/mods/avogadro.json",
+      "sha1": "a5b251ba69f10216e17e08a8e6ebf679089f8511"
     },
     {
       "path": "content/mods/emi.json",
@@ -31,6 +31,74 @@
     {
       "path": "content/mods/tmrv.json",
       "sha1": "e07768afb9d06ca3fb5d90628e395a5f025bc806"
+    },
+    {
+      "path": "overrides/config/avogadro-common.toml",
+      "sha1": "7fac5a4c71868fc42c8497b4b89537e6ce95badb"
+    },
+    {
+      "path": "overrides/config/emi.css",
+      "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
+    },
+    {
+      "path": "overrides/config/ferritecore-mixin.toml",
+      "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+    },
+    {
+      "path": "overrides/config/fml.toml",
+      "sha1": "5448b202d300702f6b654b522bbd2c39743702c0"
+    },
+    {
+      "path": "overrides/config/lithium.properties",
+      "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
+    },
+    {
+      "path": "overrides/config/modernfix-common.toml",
+      "sha1": "67d29a1db4c6d7d97b4912e5ef3aae34347d3e38"
+    },
+    {
+      "path": "overrides/config/modernfix-mixins.properties",
+      "sha1": "363b263796d22b72e97e89072413e529bcd692ee"
+    },
+    {
+      "path": "overrides/config/neoforge-client.toml",
+      "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
+    },
+    {
+      "path": "overrides/config/neoforge-common.toml",
+      "sha1": "5a9caac83eb118eaf22abc37389f7b743e475fe1"
+    },
+    {
+      "path": "overrides/config/neoforge-server.toml",
+      "sha1": "6e589499975366719134967e8ad049ee10d8caac"
+    },
+    {
+      "path": "overrides/config/sodium-extra-options.json",
+      "sha1": "2fe88902b447b908a0ac441b9275c56e01cdcd29"
+    },
+    {
+      "path": "overrides/config/sodium-extra.properties",
+      "sha1": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "overrides/config/sodium-mixins.properties",
+      "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
+    },
+    {
+      "path": "overrides/config/sodium-options.json",
+      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+    },
+    {
+      "path": "overrides/config/tmrv_plugins.json5",
+      "sha1": "68f24615533216a59f235eacff9c238735917277"
+    },
+    {
+      "path": "overrides/icon.png",
+      "sha1": "2a5dbc743705f1e02922c710494522d259ba1489"
+    },
+    {
+      "path": "overrides/options.txt",
+      "sha1": "1c267baa7c26bd0a916f9753ef2d74852358f6ed"
     }
   ]
 }

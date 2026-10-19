@@ -1,0 +1,9 @@
+enableTooltips = true
+# Default: 64
+# Range: 16 ~ 128
+tooltipSize = 64
+# Default: 6.0
+# Range: 0.5 ~ 60.0
+spinSeconds = 6.0
+jeiCategory = true
+cubicAtoms = false

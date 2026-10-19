@@ -1,0 +1,22 @@
+{
+  "name": "Avogadro",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1747669",
+      "slug": "avogadro",
+      "versionId": "9205114",
+      "versionNumber": "avogadro-1.0.0-neoforge-1.21.1.jar",
+      "filename": "avogadro-1.0.0-neoforge-1.21.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9205/114/avogadro-1.0.0-neoforge-1.21.1.jar",
+      "sha1": "276f5e77a5571555034f080d20d1ceef2c3a2ac3",
+      "fileSize": 519142
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
